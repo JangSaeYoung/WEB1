@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>지하철3호선LCD</title>
+    <link href="line3.css" rel="stylesheet" type="text/css" />
+    <script src="https://kit.fontawesome.com/8f941869ba.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header class="top">
+        <div class="mark">
+            <i class="fas fa-subway"></i>
+        </div>
+        <div class="makrname">
+            서울교통공사
+        </div>
+    </header>
+
+    <section class="station">
+        <div class="stat_num">321</div>
+        <div class="stat_name"> 연신내</div>
+    </section>
+
+    <section class="marker_sub">
+            <i class="fas fa-map-marker"></i>
+            <div class="line_num">6</div>
+    </section>
+
+    <section class="ol_sub">
+        <div class="front_sub">
+            <div class="front_num">320</div>
+            <div class="front_name"> 구파발</div>
+        </div>
+        <div class="now_sub">
+            <div class="now_num">321</div>
+            <div class="now_name"> 연신내</div>
+        </div>
+        <div class="next_sub">
+            <div class="next_num">322</div>
+            <div class="next_name"> 불광</div>
+        </div>
+        <div class="line_sub">
+        </div>
+    </section>
+</body>
+</html>
